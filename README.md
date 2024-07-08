@@ -1,5 +1,5 @@
 # Macatii
-[![](https://img.shields.io/badge/VSC-theme-blue?style=flat)](https://marketplace.visualstudio.com/items?itemName=pechola1918.lakora) 
+[![](https://img.shields.io/badge/VSC-theme-blue?style=flat)](https://marketplace.visualstudio.com/items?itemName=pechola1918.macatii) 
 [![](https://img.shields.io/badge/yo-code-green?style=flat)](https://github.com/microsoft/vscode-generator-code) 
 [![](https://img.shields.io/badge/Pechola_L-orange?style=flat)](https://github.com/PecholaL)  
 
