@@ -5,7 +5,7 @@
 
 ## About Macatii
 Inspired by the Matcha culture.  
-侘び寂び  && いちごいちえ  
+侘び寂び  && 一期一会  
 
 
 [Theme] A wabi-sabi color scheme for VSC.  
