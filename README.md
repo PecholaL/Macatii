@@ -1,16 +1,17 @@
-# Macatii README
+# Macatii
+[![](https://img.shields.io/badge/VSC-theme-blue?style=flat)](https://marketplace.visualstudio.com/items?itemName=pechola1918.lakora) 
+[![](https://img.shields.io/badge/yo-code-green?style=flat)](https://github.com/microsoft/vscode-generator-code) 
+[![](https://img.shields.io/badge/Pechola_L-orange?style=flat)](https://github.com/PecholaL)  
 
-## Working with Markdown
+## About Macatii
+[Theme] A wabi-sabi color scheme for VSC.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Links
+Creator: [Pechola L](https://github.com/PecholaL)  
+Repository: [Lakora](https://github.com/PecholaL/Macatii)  
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Advisement
+If you have any advice, feel free to create an issue via [github](https://github.com/PecholaL/Macatii/issues). :)
 
 **Enjoy!**
