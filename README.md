@@ -9,7 +9,7 @@
 
 ## Links
 Creator: [Pechola L](https://github.com/PecholaL)  
-Repository: [Lakora](https://github.com/PecholaL/Macatii)  
+Repository: [Macatii](https://github.com/PecholaL/Macatii)  
 
 ## Advisement
 If you have any advice, feel free to create an issue via [github](https://github.com/PecholaL/Macatii/issues). :)
