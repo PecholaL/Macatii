@@ -4,6 +4,10 @@
 [![](https://img.shields.io/badge/Pechola_L-orange?style=flat)](https://github.com/PecholaL)  
 
 ## About Macatii
+Inspired by the Matcha culture.  
+侘び寂び  && いちごいちえ  
+
+
 [Theme] A wabi-sabi color scheme for VSC.  
 
 
