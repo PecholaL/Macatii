@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Pechola_L-orange?style=flat)](https://github.com/PecholaL)  
 
 ## About Macatii
-[Theme] A wabi-sabi color scheme for VSC.
+[Theme] A wabi-sabi color scheme for VSC.  
 
 
 ## Links
