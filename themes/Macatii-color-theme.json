@@ -1,10 +1,33 @@
 {
 	"name": "Macatii",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#262829",
+		"editor.foreground": "#83f5ff",
+		"editor.selectionBackground": "#0c0508",
+		// terminal
+		"terminal.foreground": "#4de099",
+		// activitybar
+		"activityBar.background": "#6f907f",
+		"activityBar.foreground": "#000000",
+		"activityBar.activeBackground": "#70ce9d",
+		"activityBarBadge.background": "#30ecb0",
+		"activityBarBadge.foreground": "#000000",
+		// sidebar
+		"sideBar.background": "#3a6c51",
+		"sideBarSectionHeader.background": "#5b9677",
+		"sideBarSectionHeader.foreground": "#000000",
+		"sideBar.foreground": "#85fef4",
+		"sideBarTitle.foreground": "#98f6ed",
+		// tab
+		"tab.activeBackground": "#262829",
+		"tab.inactiveBackground": "#181313",
+		// statusbar
+		"statusBar.background": "#43574d",
+		"statusBar.foreground": "#70ce9d",
+		"statusBar.noFolderBackground": "#6f907f",
+		"statusBar.noFolderForeground": "#000000",
+		"statusBar.debuggingBackground": "#6f907f",
+		"statusBar.debuggingForeground": "#000000"
 	},
 	"tokenColors": [
 		{
