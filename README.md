@@ -7,7 +7,9 @@
 [Theme] A wabi-sabi color scheme for VSC.  
 
 Inspired by the Matcha culture.  
-侘び寂び  && 一期一会  
+  
+  
+いちごいちえ  
 
 
 ## Links
