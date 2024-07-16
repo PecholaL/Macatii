@@ -1,9 +1,15 @@
 # Change Log
+<!-- All notable changes to the "macatii" extension will be documented in this file.
 
-All notable changes to the "Macatii" extension will be documented in this file.
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
+Continuous updates with focus on optimizing Java, Python, C/CPP. ：）  
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Overview]
+- v0.0.1 23/3/2024 Initial release, alpha test
 
-## [Unreleased]
+## [Detail]
+### Added
 
-- Initial release
+### Changed
+
+### Removed
