@@ -5,7 +5,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 Continuous updates with focus on optimizing Java, Python, C/CPP. ：）  
 
 ## [Overview]
-- v0.0.1 23/3/2024 Initial release, alpha test
+- v0.0.1 16/7/2024 Initial release, alpha test
 
 ## [Detail]
 ### Added
