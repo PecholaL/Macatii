@@ -19,5 +19,9 @@
         "path": "./themes/Macatii-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "github.com/PecholaL/Macatii"
+	}
 }
