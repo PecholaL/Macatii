@@ -13,17 +13,19 @@
 		"activityBarBadge.background": "#30ecb0",
 		"activityBarBadge.foreground": "#000000",
 		// sidebar
-		"sideBar.background": "#3a6c51",
+		"sideBar.background": "#347955",
 		"sideBarSectionHeader.background": "#5b9677",
-		"sideBarSectionHeader.foreground": "#000000",
+		"sideBarSectionHeader.foreground": "#34332f",
 		"sideBar.foreground": "#85fef4",
 		"sideBarTitle.foreground": "#98f6ed",
+		"sideBar.border":"#26aa3a",
+		"sideBarTitle.background":"#3a6c51",
 		// tab
 		"tab.activeBackground": "#262829",
 		"tab.inactiveBackground": "#181313",
 		// statusbar
-		"statusBar.background": "#43574d",
-		"statusBar.foreground": "#70ce9d",
+		"statusBar.background": "#6f907f",
+		"statusBar.foreground": "#000000",
 		"statusBar.noFolderBackground": "#6f907f",
 		"statusBar.noFolderForeground": "#000000",
 		"statusBar.debuggingBackground": "#6f907f",
