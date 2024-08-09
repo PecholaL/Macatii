@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#262829",
 		"editor.foreground": "#83f5ff",
-		"editor.selectionBackground": "#0c0508",
+		"editor.selectionBackground": "#65646d",
 		// terminal
 		"terminal.foreground": "#4de099",
 		// activitybar
@@ -39,8 +39,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#b58fc8"
+				"foreground": "#8c6f9a"
 			}
 		},
 		{
@@ -75,12 +74,14 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
+				"keyword.control.import.python",
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"keyword.control.flow.python"
 			],
 			"settings": {
-				"foreground": "#92c2d3"
+				"foreground": "#09ab96"
 			}
 		},
 		{
@@ -124,7 +125,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00bbb5"
+				"foreground": "#23aa96"
 			}
 		},
 		{
@@ -159,7 +160,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#2f852b"
+				"foreground": "#34a52e"
 			}
 		},
 		{
@@ -187,7 +188,8 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
+				"keyword.operator.logical.python"
 			],
 			"settings": {
 				"foreground": "#FFCB6B"
@@ -334,6 +336,7 @@
 		{
 			"name": "Escape Characters",
 			"scope": [
+				"storage.type.function.python",
 				"constant.character.escape"
 			],
 			"settings": {
@@ -647,6 +650,26 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "CC - 1",
+			"scope": [
+				"constant.language.python"
+			],
+			"settings": {
+				"foreground": "#965d5d",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "CC - 2",
+			"scope": [
+				"variable.parameter.function.language.special.self.python"
+			],
+			"settings": {
+				"foreground": "#33eaad",
+				"fontStyle": "italic"
 			}
 		}
 	]
